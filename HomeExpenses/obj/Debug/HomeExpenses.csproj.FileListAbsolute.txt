@@ -1,0 +1,193 @@
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\HomeExpenses.csprojAssemblyReference.cache
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\Views\AboutView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\Views\DataView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\Views\MoreView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\Views\ShellView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\Views\StatisticsView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\App.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\HomeExpenses_MarkupCompile.cache
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\HomeExpenses_MarkupCompile.lref
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\bin\Debug\HomeExpenses.exe.config
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\bin\Debug\HomeExpenses.exe
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\bin\Debug\HomeExpenses.pdb
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\bin\Debug\Caliburn.Micro.dll
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\bin\Debug\Caliburn.Micro.xml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\App.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\Views\AboutView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\Views\DataView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\Views\MoreView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\Views\ShellView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\Views\StatisticsView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\HomeExpenses.g.resources
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\HomeExpenses.Properties.Resources.resources
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\HomeExpenses.csproj.GenerateResource.cache
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\HomeExpenses.csproj.CopyComplete
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\HomeExpenses.exe
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\HomeExpenses.pdb
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\bin\Debug\HomeExpenses.exe.config
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\bin\Debug\HomeExpenses.exe
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\bin\Debug\HomeExpenses.pdb
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\bin\Debug\Caliburn.Micro.dll
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\bin\Debug\LiveCharts.dll
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\bin\Debug\Caliburn.Micro.xml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\bin\Debug\LiveCharts.pdb
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\bin\Debug\LiveCharts.xml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\obj\Debug\Views\CategoryView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\obj\Debug\Views\TransactionsView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\obj\Debug\Views\CategoriesView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\obj\Debug\Views\ShellView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\obj\Debug\Views\StatisticsView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\obj\Debug\Views\TransactionView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\obj\Debug\App.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\obj\Debug\HomeExpenses_MarkupCompile.cache
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\obj\Debug\HomeExpenses_MarkupCompile.lref
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\obj\Debug\App.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\obj\Debug\Views\CategoryView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\obj\Debug\Views\TransactionsView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\obj\Debug\Views\CategoriesView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\obj\Debug\Views\ShellView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\obj\Debug\Views\StatisticsView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\obj\Debug\Views\TransactionView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\obj\Debug\HomeExpenses.g.resources
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\obj\Debug\HomeExpenses.Properties.Resources.resources
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\obj\Debug\HomeExpenses.csproj.GenerateResource.cache
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\obj\Debug\HomeExpenses.csproj.CopyComplete
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\obj\Debug\HomeExpenses.exe
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\obj\Debug\HomeExpenses.pdb
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\HomeExpenses\obj\Debug\HomeExpenses.csprojAssemblyReference.cache
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\bin\Debug\HomeExpenses.exe.config
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\bin\Debug\HomeExpenses.exe
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\bin\Debug\HomeExpenses.pdb
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\bin\Debug\Caliburn.Micro.dll
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\bin\Debug\LiveCharts.dll
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\bin\Debug\Caliburn.Micro.xml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\bin\Debug\LiveCharts.pdb
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\bin\Debug\LiveCharts.xml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\obj\Debug\HomeExpenses.csprojAssemblyReference.cache
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\obj\Debug\Views\CategoryView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\obj\Debug\Views\ShellView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\obj\Debug\Views\TransactionsView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\obj\Debug\Views\CategoriesView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\obj\Debug\Views\StatisticsView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\obj\Debug\Views\TransactionView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\obj\Debug\App.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\obj\Debug\HomeExpenses_MarkupCompile.cache
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\obj\Debug\HomeExpenses_MarkupCompile.lref
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\obj\Debug\App.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\obj\Debug\Views\CategoryView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\obj\Debug\Views\ShellView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\obj\Debug\Views\TransactionsView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\obj\Debug\Views\CategoriesView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\obj\Debug\Views\StatisticsView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\obj\Debug\Views\TransactionView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\obj\Debug\HomeExpenses.g.resources
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\obj\Debug\HomeExpenses.Properties.Resources.resources
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\obj\Debug\HomeExpenses.csproj.GenerateResource.cache
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\obj\Debug\HomeExpenses.csproj.CopyComplete
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\obj\Debug\HomeExpenses.exe
+C:\Users\strel\Desktop\university 2019-2020\Курсова\HomeExpenses\obj\Debug\HomeExpenses.pdb
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\bin\Debug\HomeExpenses.exe.config
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\bin\Debug\HomeExpenses.exe
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\bin\Debug\HomeExpenses.pdb
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\bin\Debug\Caliburn.Micro.dll
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\bin\Debug\LiveCharts.dll
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\bin\Debug\Caliburn.Micro.xml
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\bin\Debug\LiveCharts.pdb
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\bin\Debug\LiveCharts.xml
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\obj\Debug\HomeExpenses.csprojAssemblyReference.cache
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\obj\Debug\Views\CategoryView.g.cs
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\obj\Debug\Views\ShellView.g.cs
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\obj\Debug\Views\TransactionsView.g.cs
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\obj\Debug\Views\CategoriesView.g.cs
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\obj\Debug\Views\StatisticsView.g.cs
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\obj\Debug\Views\TransactionView.g.cs
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\obj\Debug\App.g.cs
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\obj\Debug\HomeExpenses_MarkupCompile.cache
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\obj\Debug\HomeExpenses_MarkupCompile.lref
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\obj\Debug\App.baml
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\obj\Debug\Views\CategoryView.baml
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\obj\Debug\Views\ShellView.baml
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\obj\Debug\Views\TransactionsView.baml
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\obj\Debug\Views\CategoriesView.baml
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\obj\Debug\Views\StatisticsView.baml
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\obj\Debug\Views\TransactionView.baml
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\obj\Debug\HomeExpenses.g.resources
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\obj\Debug\HomeExpenses.Properties.Resources.resources
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\obj\Debug\HomeExpenses.csproj.GenerateResource.cache
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\obj\Debug\HomeExpenses.csproj.CopyComplete
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\obj\Debug\HomeExpenses.exe
+C:\Users\strel\Desktop\university\1-Year\Курсова\HomeExpenses\obj\Debug\HomeExpenses.pdb
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\bin\Debug\HomeExpenses.exe.config
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\bin\Debug\HomeExpenses.exe
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\bin\Debug\HomeExpenses.pdb
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\bin\Debug\Caliburn.Micro.dll
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\bin\Debug\LiveCharts.dll
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\bin\Debug\Caliburn.Micro.xml
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\bin\Debug\LiveCharts.pdb
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\bin\Debug\LiveCharts.xml
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\obj\Debug\HomeExpenses.csproj.AssemblyReference.cache
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\obj\Debug\Views\CategoryView.g.cs
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\obj\Debug\Views\ShellView.g.cs
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\obj\Debug\Views\TransactionsView.g.cs
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\obj\Debug\Views\CategoriesView.g.cs
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\obj\Debug\Views\StatisticsView.g.cs
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\obj\Debug\Views\TransactionView.g.cs
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\obj\Debug\App.g.cs
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\obj\Debug\HomeExpenses_MarkupCompile.cache
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\obj\Debug\HomeExpenses_MarkupCompile.lref
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\obj\Debug\App.baml
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\obj\Debug\Views\CategoryView.baml
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\obj\Debug\Views\ShellView.baml
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\obj\Debug\Views\TransactionsView.baml
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\obj\Debug\Views\CategoriesView.baml
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\obj\Debug\Views\StatisticsView.baml
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\obj\Debug\Views\TransactionView.baml
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\obj\Debug\HomeExpenses.g.resources
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\obj\Debug\HomeExpenses.Properties.Resources.resources
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\obj\Debug\HomeExpenses.csproj.GenerateResource.cache
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\obj\Debug\HomeExpenses.csproj.CoreCompileInputs.cache
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\obj\Debug\HomeExpenses.csproj.CopyComplete
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\obj\Debug\HomeExpenses.exe
+C:\Users\strel\Desktop\university\2 semester\Курсова\HomeExpenses\obj\Debug\HomeExpenses.pdb

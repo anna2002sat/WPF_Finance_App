@@ -1,0 +1,120 @@
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\WPFUI\bin\Debug\WPFUI.exe.config
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\WPFUI\bin\Debug\WPFUI.exe
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\WPFUI\bin\Debug\WPFUI.pdb
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\WPFUI\bin\Debug\Caliburn.Micro.dll
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\WPFUI\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\WPFUI\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\WPFUI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\WPFUI\bin\Debug\Caliburn.Micro.xml
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\WPFUI\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\WPFUI\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\WPFUI\obj\Debug\HomeExpanses.csprojAssemblyReference.cache
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\WPFUI\obj\Debug\Views\ShellView.g.cs
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\WPFUI\obj\Debug\App.g.cs
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\WPFUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\WPFUI\obj\Debug\WPFUI_MarkupCompile.cache
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\WPFUI\obj\Debug\WPFUI_MarkupCompile.lref
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\WPFUI\obj\Debug\App.baml
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\WPFUI\obj\Debug\Views\ShellView.baml
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\WPFUI\obj\Debug\WPFUI.g.resources
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\WPFUI\obj\Debug\WPFUI.Properties.Resources.resources
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\WPFUI\obj\Debug\HomeExpanses.csproj.GenerateResource.cache
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\WPFUI\obj\Debug\HomeExpanses.csproj.CopyComplete
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\WPFUI\obj\Debug\WPFUI.exe
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\WPFUI\obj\Debug\WPFUI.pdb
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\bin\Debug\WPFUI.exe.config
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\bin\Debug\WPFUI.exe
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\bin\Debug\WPFUI.pdb
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\bin\Debug\Caliburn.Micro.dll
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\bin\Debug\Caliburn.Micro.xml
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\HomeExpanses.csprojAssemblyReference.cache
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\Views\ShellView.g.cs
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\App.g.cs
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\WPFUI_MarkupCompile.cache
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\WPFUI_MarkupCompile.lref
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\App.baml
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\Views\ShellView.baml
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\WPFUI.g.resources
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\WPFUI.Properties.Resources.resources
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\HomeExpanses.csproj.GenerateResource.cache
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\HomeExpanses.csproj.CopyComplete
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\WPFUI.exe
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\WPFUI.pdb
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\Views\AboutView.g.cs
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\Views\DataView.g.cs
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\Views\MoreView.g.cs
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\Views\AboutView.baml
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\Views\DataView.baml
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\Views\MoreView.baml
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\Views\StatisticsView.g.cs
+C:\Users\strel\Downloads\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\Views\StatisticsView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\bin\Debug\WPFUI.exe.config
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\bin\Debug\WPFUI.exe
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\bin\Debug\WPFUI.pdb
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\bin\Debug\Caliburn.Micro.dll
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\bin\Debug\Caliburn.Micro.xml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\HomeExpanses.csprojAssemblyReference.cache
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\Views\AboutView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\Views\DataView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\Views\MoreView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\Views\ShellView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\Views\StatisticsView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\App.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\WPFUI_MarkupCompile.cache
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\WPFUI_MarkupCompile.lref
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\App.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\Views\AboutView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\Views\DataView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\Views\MoreView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\Views\ShellView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\Views\StatisticsView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\WPFUI.g.resources
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\WPFUI.Properties.Resources.resources
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\HomeExpanses.csproj.GenerateResource.cache
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\HomeExpanses.csproj.CopyComplete
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\WPFUI.exe
+C:\Users\strel\Desktop\university 2019-2020\Курсова\CaliburnMicroDemoSource\FinancesDemo\obj\Debug\WPFUI.pdb
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\bin\Debug\WPFUI.exe.config
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\bin\Debug\WPFUI.exe
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\bin\Debug\WPFUI.pdb
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\bin\Debug\Caliburn.Micro.dll
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\bin\Debug\Caliburn.Micro.xml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\HomeExpanses.csprojAssemblyReference.cache
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\Views\AboutView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\Views\DataView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\Views\MoreView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\Views\ShellView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\Views\StatisticsView.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\App.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\WPFUI_MarkupCompile.cache
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\WPFUI_MarkupCompile.lref
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\App.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\Views\AboutView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\Views\DataView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\Views\MoreView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\Views\ShellView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\Views\StatisticsView.baml
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\WPFUI.g.resources
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\WPFUI.Properties.Resources.resources
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\HomeExpanses.csproj.GenerateResource.cache
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\HomeExpanses.csproj.CopyComplete
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\WPFUI.exe
+C:\Users\strel\Desktop\university 2019-2020\Курсова\Курсова\FinancesDemo\obj\Debug\WPFUI.pdb

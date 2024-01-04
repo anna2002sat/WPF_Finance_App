@@ -1,0 +1,79 @@
+﻿<UserControl x:Class="HomeExpenses.Views.CategoriesView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:sys="clr-namespace:System;assembly=mscorlib" 
+             xmlns:m="clr-namespace:HomeExpenses.Models"
+             xmlns:cal="http://www.caliburnproject.org"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800" Background="Transparent">
+
+    <UserControl.Resources> <!--Creating object provider to create, bind combobox with enum-->
+        <ObjectDataProvider x:Key="EnumDataProvider" MethodName="GetValues"
+                        ObjectType="{x:Type sys:Enum}">
+            <ObjectDataProvider.MethodParameters>
+                <x:Type TypeName="m:CategoryType"/>
+            </ObjectDataProvider.MethodParameters>
+        </ObjectDataProvider>
+    </UserControl.Resources>
+
+
+
+    <Grid> 
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition MinWidth="200"/>
+            <ColumnDefinition MinWidth="150"/>
+            <ColumnDefinition MinWidth="150" Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <DataGrid 
+            Grid.Column="0" 
+            Grid.ColumnSpan="3"
+            CanUserResizeColumns="False"
+            CanUserReorderColumns="False"
+            Grid.Row="1"
+            Margin="0,10,0,0"
+            FontSize="16"
+            ColumnHeaderHeight="40"
+            FontFamily="Times New Roman"
+            AutoGenerateColumns="False"
+            CanUserAddRows="False"
+            Background="Transparent"
+            BorderBrush="Transparent"
+            
+            SelectedItem="{Binding SelectedCategory}"
+            x:Name="Categories" RowBackground="#00000000" > <!-- Binding with all Bindable colection of categories -->
+            
+            <DataGrid.Columns ><!-- Organizing all columns of dataGrid-->
+                <DataGridTextColumn Binding="{Binding Path = Name}" Header="Name" MinWidth="120" IsReadOnly="True"/>
+
+                <DataGridComboBoxColumn Header="Type" ItemsSource="{Binding Source={StaticResource EnumDataProvider}}" IsReadOnly="True"  SelectedItemBinding="{Binding Type}" MinWidth="80" />
+                <DataGridTextColumn Binding="{Binding Path = Description}" Header="Description" Width="*" IsReadOnly="True" />
+                <DataGridTemplateColumn>                    <DataGridTemplateColumn.CellTemplate>                        <DataTemplate>                            <Button cal:Message.Attach="[Event Click] = [Action EditCategory($dataContext)]" Background="Transparent" MinWidth="40" Margin="0" BorderBrush="Transparent" >                                <StackPanel>
+                                    <Image Source="/Images/icons-edit-property.png" Width="40" Height="25" />
+                                </StackPanel>                            </Button>                        </DataTemplate>                    </DataGridTemplateColumn.CellTemplate>                </DataGridTemplateColumn>
+                
+                <DataGridTemplateColumn >                    <DataGridTemplateColumn.Header>                        <Button  cal:Message.Attach="[Event Click] = [Action AddCategory()]" Background="White" HorizontalAlignment="Right" MinWidth="30" Margin="0 0 0 0" MinHeight="30" BorderBrush="White">                            <StackPanel>
+                                <Image Source="/Images/icons-plus.png" Width="60" Height="25" />
+                            </StackPanel>
+                        </Button>                    </DataGridTemplateColumn.Header>                    <DataGridTemplateColumn.CellTemplate>                        <DataTemplate>                            <Button cal:Message.Attach="[Event Click] = [Action DeleteCategory($dataContext)]"  MinWidth="40"  BorderBrush="Transparent" Background="Transparent" >                                <StackPanel>
+                                    <Image Source="/Images/icons-delete.png" Width="40" Height="25" />
+                                </StackPanel>                            </Button>                                                       </DataTemplate>                    </DataGridTemplateColumn.CellTemplate>                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+
+            <DataGrid.ColumnHeaderStyle>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="FontWeight"
+                  Value="Bold" />
+                    <Setter Property="HorizontalContentAlignment"
+                            Value="Center"/>
+                </Style>
+            </DataGrid.ColumnHeaderStyle>
+        </DataGrid>
+       
+    </Grid>
+</UserControl>

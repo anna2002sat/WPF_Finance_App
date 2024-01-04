@@ -1,0 +1,157 @@
+﻿<UserControl x:Class="HomeExpenses.Views.TransactionsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:HomeExpenses.Views"
+             xmlns:cal="http://www.caliburnproject.org"
+             mc:Ignorable="d" 
+             FontSize="14"
+             d:DesignHeight="450" d:DesignWidth="800" Background="Transparent">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" MinWidth="50"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition MinWidth="100"/>
+            <ColumnDefinition MinWidth="100"/>
+            <ColumnDefinition MinWidth="100"/>
+            <ColumnDefinition MinWidth="100"/>
+            <ColumnDefinition MinWidth="100"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="35"/>
+        </Grid.RowDefinitions>
+        
+        
+
+        <!--Row 1 -->
+        <Label Grid.Row="0" Content="Search:" FontSize="18" Grid.Column="0" VerticalAlignment="Center" FontFamily="Times New Roman" FontWeight="DemiBold" Margin="0 20 0 0" />
+        <!--Row 2 -->
+        <TextBox BorderBrush="Black" Grid.Row="1" Grid.Column="0" FontSize="16"  Name="Search" VerticalAlignment="Top" FontFamily="Times New Roman" Padding="2">
+            <TextBox.Text>
+                <Binding Path="Search"
+                   UpdateSourceTrigger="PropertyChanged"/>
+            </TextBox.Text>
+        </TextBox>
+        
+        <!--Row 3 -->
+        <Button Grid.Row="2" Grid.Column="0" Name="ToDefault" FontSize="18" Content="To Default" Background="#FF00BBFF" BorderBrush="#FF006184"  FontFamily="Times New Roman" FontWeight="DemiBold"/>
+
+        <!--Row 4 -->
+        <Label Grid.Row="3" FontSize="17" Grid.Column="0" Content="From:" VerticalAlignment="Bottom" FontFamily="Times New Roman" FontWeight="DemiBold" Margin="0 7 0 0"  />
+        <!--Row 5 -->
+        <DatePicker  Grid.Row="4" Grid.Column="0" Background="Transparent" VerticalAlignment="Top" Name="StartDate" Grid.ColumnSpan="2" BorderBrush="Transparent" FontSize="14" Padding="2">
+            <DatePicker.Resources>
+                <Style TargetType="DatePickerTextBox">
+                    <Setter Property="Background" Value="Transparent" />
+                    <Setter Property="BorderBrush" Value="Black" />
+                    <Setter Property="BorderThickness" Value="1" />
+                    <Setter Property="SelectionBrush" Value="Transparent" />
+                    <Setter Property="IsReadOnly" Value="True"/>
+                </Style>
+            </DatePicker.Resources>
+        </DatePicker>
+
+        <!--Row 6 -->
+        <Label Grid.Row="5" Content="To:" FontSize="17" VerticalAlignment="Bottom" FontFamily="Times New Roman" FontWeight="DemiBold" Margin="0 5 0 0"/>
+        <!--Row 7 -->
+        <DatePicker Name="FinishDate" Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="2" VerticalAlignment="Top" BorderBrush="Transparent" FontSize="14" Padding="2">
+            <DatePicker.Resources>
+                <Style TargetType="DatePickerTextBox">
+                    <Setter Property="Background" Value="Transparent" />
+                    <Setter Property="BorderBrush" Value="Black" />
+                    <Setter Property="BorderThickness" Value="1" />
+                    <Setter Property="SelectionBrush" Value="Transparent" />
+                    <Setter Property="IsReadOnly" Value="True"/>
+                </Style>
+            </DatePicker.Resources>
+        </DatePicker>
+
+        <!--Row 8 -->
+        <Label Grid.Row="7" Content="Show types:" FontSize="17" VerticalAlignment="Bottom" FontFamily="Times New Roman" FontWeight="DemiBold" Margin="0 5 0 0"/>
+        <!--Row 9 -->
+        <ComboBox SelectedIndex="{Binding ShowTypes}" FontSize="17" Grid.Row="8" VerticalAlignment="Center" FontFamily="Times New Roman" FontWeight="DemiBold" Height="25" MinWidth="60" Background="White" >
+            <ComboBoxItem Content="All" Background="White" />
+            <ComboBoxItem Content="Debit" Background="White" />
+            <ComboBoxItem Content="Credit" Background="White"/>
+        </ComboBox>
+        
+
+        <!--Row 2-10 -->
+        <DataGrid
+            Grid.Row="0"
+            Grid.Column="3"
+            Grid.RowSpan="10"
+            Grid.ColumnSpan="9"
+            Margin="0,10,0,0"
+            FontSize="16"
+            FontFamily="Times New Roman"
+            Background="Transparent"
+            BorderBrush="Transparent"
+            MinRowHeight="25"
+            MinColumnWidth="30"
+            ColumnHeaderHeight="40"
+            CanUserResizeColumns="False"
+            AutoGenerateColumns="False"
+            CanUserAddRows="False"
+            SelectedItem="{Binding SelectedTransaction}"
+            x:Name="Transactions"
+            ItemsSource="{Binding Transactions}" SelectionChanged="Transactions_SelectionChanged" RowBackground="#00FF0000"
+            
+            >
+            <DataGrid.Columns>
+                <DataGridTextColumn SortMemberPath="Date" Binding="{Binding Date, StringFormat=dd-MM-yy}" Header="Date" MinWidth="120" IsReadOnly="True" />
+                <DataGridTextColumn Binding="{Binding Path = SelectedCategory.Name}" Header="Category" MinWidth="120" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding Path = Amount}" Header="Amount" MinWidth="120" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding Path = Description}" Header="Description" MinWidth="120" Width="*" IsReadOnly="True"/>
+                <DataGridTemplateColumn>                    <DataGridTemplateColumn.CellTemplate>                        <DataTemplate>                            <Button cal:Message.Attach="[Event Click] = [Action EditCategory($dataContext)]" Background="Transparent" MinWidth="40" Margin="0" BorderBrush="Transparent" >                                <StackPanel>
+                                    <Image Source="/Images/icons-edit-property.png" Width="40" Height="30" />
+                                </StackPanel>                            </Button>                        </DataTemplate>                    </DataGridTemplateColumn.CellTemplate>                </DataGridTemplateColumn>
+
+                <DataGridTemplateColumn >                    <DataGridTemplateColumn.Header>                        <Button  cal:Message.Attach="[Event Click] = [Action AddTransaction()]" Background="White" HorizontalAlignment="Right" MinWidth="30" Margin="0 0 0 0" MinHeight="30" BorderBrush="White">                            <StackPanel>
+                                <Image Source="/Images/icons-plus.png" Width="60" Height="30" />
+                            </StackPanel>
+                        </Button>                    </DataGridTemplateColumn.Header>                    <DataGridTemplateColumn.CellTemplate>                        <DataTemplate>                            <Button cal:Message.Attach="[Event Click] = [Action DeleteTransaction($dataContext)]"  MinWidth="40"  BorderBrush="Transparent" Background="Transparent" >                                <StackPanel>
+                                    <Image Source="/Images/icons-delete.png" Width="40" Height="30" />
+                                </StackPanel>                            </Button>                        </DataTemplate>                    </DataGridTemplateColumn.CellTemplate>                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+
+            <DataGrid.ColumnHeaderStyle>
+                <!--Header styles -->
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="FontWeight"
+                  Value="Bold" />
+                    <Setter Property="HorizontalContentAlignment"
+                            Value="Center"/>
+                </Style>
+            </DataGrid.ColumnHeaderStyle>
+
+
+        </DataGrid>
+        
+        <!--Row 11 -->
+        <Label Grid.Row="10" Grid.Column="3" FontSize="17" Content="Total Credit:"  HorizontalAlignment="Right" FontFamily="Times New Roman" FontWeight="DemiBold" />
+        <TextBox Grid.Row="10" Grid.Column="4" Text="{Binding Path=TotalCredit}" Name="TotalCredit"  BorderBrush="Black" Background="Transparent" BorderThickness="2"
+                 FontFamily="Times New Roman" FontSize="17" FontWeight="DemiBold" Padding="6 2 6 2" IsReadOnly="True" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+        <Label Grid.Row="10" Grid.Column="5" FontSize="17" Content="Total Debit:" HorizontalAlignment="Right" FontFamily="Times New Roman" FontWeight="DemiBold"/>
+        <TextBox  Grid.Row="10" Grid.Column="6" Text="{Binding Path=TotalDebit}"  Name="TotalDebit" BorderBrush="Black" Background="Transparent" BorderThickness="2"
+                  FontFamily="Times New Roman" FontSize="17" FontWeight="DemiBold" Padding="6 2 6 2" IsReadOnly="True" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+        <Label Grid.Row="10" Grid.Column="7" FontSize="17" Content="Total Profit:" HorizontalAlignment="Right" FontFamily="Times New Roman" FontWeight="DemiBold"/>
+        <TextBox Grid.Row="10" Grid.Column="8" Text="{Binding Path=TotalProfit}" Name="TotalProfit" BorderBrush="Black" Background="Transparent" BorderThickness="2"
+                 FontFamily="Times New Roman" FontSize="17" FontWeight="DemiBold"  Padding="6 2 6 2" IsReadOnly="True" HorizontalAlignment="Left" VerticalAlignment="Center" />
+    </Grid>
+</UserControl>
